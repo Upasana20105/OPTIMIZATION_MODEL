@@ -144,4 +144,9 @@ This visualization overlays **profit lines** on top of the feasible region:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/11cee66e-8b3e-45e4-a40b-10a162c9e906)
+![Image](https://github.com/user-attachments/assets/d8cecdeb-e08e-4bc2-ad9a-5eae526aed83)
+![Image](https://github.com/user-attachments/assets/35cfd0ba-f88d-41df-a6d0-31bef20c227e)
+![Image](https://github.com/user-attachments/assets/11cc3682-0c88-4a1c-9449-0f2a7123b270)
+
 
