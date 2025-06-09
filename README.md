@@ -15,15 +15,73 @@ MENTOR: NEELA SANTOSH
 DESCRIPTION OF THE TASK:
 
 
-Here is a description for each of the plots shown in the images (`output1.png`, `output2.png`, `output3.png`, `output4.png`) based on their content. You can use this for your GitHub README to explain the visualizations generated in your Jupyter Notebook (`notebook.ipynb`).
-
 ---
 
 ## 📊 Project: Linear Programming - Production Optimization
 
 This project demonstrates how to apply **Linear Programming** techniques to a **production optimization** problem using Python and matplotlib for visualization.
 
-### 📁 Files Overview
+---
+
+# 🏭 Linear Programming – Production Optimization using Python
+
+This project demonstrates how **Linear Programming (LP)** can be used to optimize production planning and maximize profit subject to resource constraints. The implementation involves visualizing constraint lines, feasible regions, and optimal solutions.
+
+## 📘 Project Overview
+
+The objective is to **maximize profit** by deciding the optimal number of units to produce for two products, A and B, under given constraints (like labor hours, materials, etc.). This project illustrates:
+
+* Formulation of linear constraints and objective function.
+* Graphical method to find feasible region and optimal solution.
+* Visualization of profit levels and their interaction with constraints.
+
+---
+
+## 🧾 Files Description
+
+### 🔹 `notebook.ipynb`
+
+This Jupyter notebook contains the entire implementation, including:
+
+* Defining constraints
+* Plotting constraint lines
+* Shading feasible regions
+* Plotting profit lines
+* Identifying the optimal solution
+
+The code uses `matplotlib`, `numpy`, and LP concepts to visualize and solve the problem graphically.
+
+---
+
+
+## 📈 Objective Function
+
+Maximize:
+**Profit = c₁x + c₂y**,
+where `x` and `y` are units of Product A and B respectively, subject to linear constraints.
+
+---
+
+## 🧰 Tools & Libraries Used
+
+* Python 3.x
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+
+---
+
+## 🛠️ Applications
+
+* Manufacturing and Production Planning
+* Resource Allocation
+* Business Decision Making
+* Supply Chain Optimization
+
+---
+
+
+### 📊 Output Visualizations
 
 ---
 
@@ -78,5 +136,12 @@ This visualization overlays **profit lines** on top of the feasible region:
 * Profit maximization
 * Supply chain & manufacturing decisions
 
+## 📎 How to Run
+
+1. Clone this repository.
+2. Open `notebook.ipynb` using Jupyter Notebook.
+3. Run the cells to view plots and optimization results.
+
 ---
+
 
